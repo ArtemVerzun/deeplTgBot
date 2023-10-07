@@ -12,5 +12,6 @@
 Добавьте свой токен доступа
 
 Результат
+
 ![image](https://github.com/ArtemVerzun/deeplTgBot/assets/143192676/dcdf0a1c-7d1b-42c9-a597-84e0125ba127)
 
